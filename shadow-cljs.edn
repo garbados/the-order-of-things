@@ -1,0 +1,11 @@
+;; shadow-cljs configuration
+{:lein {:profile "+cljs"}
+ :dev-http {3000 "public"}
+ :builds
+ {:web
+  {:compiler-options {:source-map true}
+   :target :browser
+   :modules {:main {:entries [the-order-of-things.web.app]}}}
+  :test
+  {:target :karma
+   :output-to  "target/test.js"}}}
