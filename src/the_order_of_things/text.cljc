@@ -13,7 +13,6 @@
 
 (def about (inline-slurp "doc/about.md"))
 (def poems (inline-slurp "doc/the_order_of_things.md"))
-(def poems-meta (edn/read-string (inline-slurp "resources/smith_waite.edn")))
 
 (def content
   (as-> poems $
@@ -23,9 +22,7 @@
     (map
      (fn [[title body]]
        (let [id (->kw title)]
-         (cond-> (merge
-                  {:title title :id id}
-                  (get poems-meta id))
+         (cond-> {:title title :id id}
            body (assoc :lines (string/split body #"\n")))))
      $)
     (drop 1 $)))

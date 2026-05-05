@@ -4,15 +4,14 @@
    [the-order-of-things.text :as text]))
 
 (defn describe-card
-  [{card-name :title
-    poem-lines :lines
-    {media-description :description :keys [src]} :media}]
+  [{poem-id :id
+    card-name :title
+    poem-lines :lines}]
   [:section>article.grid
    {:style "grid-template-columns: 25% 1fr;"}
-   (when (seq src)
-     [:img {:alt media-description
-            :title media-description
-            :src src}])
+   [:img {:alt card-name
+          :title card-name
+          :src (str "img/smith-waite/" (name poem-id) ".jpg")}]
    [:div
     [:h3 card-name]
     (when (seq poem-lines)
