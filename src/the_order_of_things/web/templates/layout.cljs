@@ -10,6 +10,10 @@
    [:div.navbar-menu
     [:div.navbar-end
      [:div.navbar-item
+      [:a.button.is-info.is-outlined {:href "#/spread"} "Spread 🃏"]]
+     [:div.navbar-item
+      [:a.button.is-info {:href "#/about"} "About 📖"]]
+     [:div.navbar-item
       [:a.button.is-info.is-light
        {:href "https://github.com/garbados/the-order-of-things"
         :target "_blank"}

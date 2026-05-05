@@ -1,19 +1,19 @@
 (ns the-order-of-things.web.views.homepage 
   (:require
    [the-order-of-things.web.alchemy :as alchemy]
-   [the-order-of-things.web.templates.cards :refer [list-cards]]
+   [the-order-of-things.web.templates.cards :refer [search-cards]]
    [the-order-of-things.web.templates.prompts :as prompts]))
 
-(defn search [-search on-submit]
+(defn search [-search on-change]
   [:div.field
    [:div.control.has-icons-right
     (prompts/text -search
-                  :on-change on-submit
+                  :on-change on-change
                   :placeholder "🔍 Search poems")]])
 
 (defn homepage []
   (let [-search (atom "")
-        on-submit #(alchemy/refresh :cards (list-cards @-search))]
-    [(search -search on-submit)
+        on-change #(alchemy/refresh :cards (search-cards @-search))]
+    [(search -search on-change)
      [:div#cards
-      (list-cards @-search)]]))
+      (search-cards @-search)]]))

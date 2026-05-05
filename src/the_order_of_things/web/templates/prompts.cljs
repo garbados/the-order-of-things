@@ -18,11 +18,13 @@
              options-list input-type
              props]
       :or {wait default-wait-ms}}]
-  (let [oninput (debounce #(reset! -value (-> % .-target .-value)) wait)
+  (let [oninput #(reset! -value (-> % .-target .-value))
         onkeydown
-        #(cond
-           (and on-submit (= 13 (.-which %))) (on-submit @-value)
-           on-change (on-change @-value))]
+        (debounce
+         #(cond
+            (and on-submit (= 13 (.-which %))) (on-submit @-value)
+            on-change (on-change @-value))
+         wait)]
     [:input.input
      (cond->
       {:type input-type
@@ -35,3 +37,6 @@
 
 (defn text [-value & args]
   (apply input -value :input-type "text" args))
+
+(defn number [-value & args]
+  (apply input -value :input-type "number" args))

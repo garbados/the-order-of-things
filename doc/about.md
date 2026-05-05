@@ -40,7 +40,7 @@ Ambitions may outlive individuals,
 but change is eternity's only lasting companion.
 
 By the time of Akkad, Inanna had syncretized into Ishtar,
-her distinguishing divinity reduced to that delicious sensuality,
+her distinguished divinity reduced to that delicious sensuality,
 as city-scale cuisine and hygiene had become widespread norms,
 so that when the westerners of modernity began to translate it,
 they would translate the high priestess of Inanna teaching Enkidu
@@ -54,7 +54,7 @@ Even the tyranny of a covetous En was never so savage as this.
 "The Order of Things" is not about Uruk
 or Gilgamesh or Enkidu or Inanna,
 but only the themes their myths navigate.
-It is a reflection, seven thousand years later,
+It is a reflection, seven millennia later,
 not a retelling.
 It is about civilization, and guestright, and love.
 It is about death, and return, and enlightenment.

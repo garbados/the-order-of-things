@@ -11,6 +11,7 @@
       (string/replace #"\s+" "-")
       keyword))
 
+(def about (inline-slurp "doc/about.md"))
 (def poems (inline-slurp "doc/the_order_of_things.md"))
 (def poems-meta (edn/read-string (inline-slurp "resources/smith_waite.edn")))
 

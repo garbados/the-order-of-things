@@ -1,24 +1,25 @@
-(ns the-order-of-things.web.app 
+(ns the-order-of-things.web.app
   (:require
    [clojure.string :as string]
    [shadow.cljs.modern :refer (defclass)]
    [the-order-of-things.web.alchemy :as alchemy]
+   [the-order-of-things.web.routing :as routing]
+   [the-order-of-things.web.templates.about :refer [about]]
    [the-order-of-things.web.templates.layout :as layout]
-   [the-order-of-things.web.views.homepage :refer [homepage]]))
-
-(def main-id "main")
+   [the-order-of-things.web.views.homepage :refer [homepage]]
+   [the-order-of-things.web.views.spread :refer [poem-spread]]))
 
 (def route->view
   {:index homepage
-   ;:about about-view
-   ;:spread spread-view
-   })
+   :about about
+   :spread poem-spread})
+
+(def refresh-hash (partial routing/refresh-hash route->view "main" :index))
 
 (defn main-view [node]
   (.appendChild node (alchemy/alchemize layout/container))
-  (alchemy/refresh main-id (homepage))
-  #_(js/window.addEventListener "popstate" refresh)
-  #_(refresh))
+  (js/window.addEventListener "popstate" refresh-hash)
+  (refresh-hash))
 
 (defclass MainComponent
   (extends js/HTMLElement)
