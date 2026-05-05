@@ -5,11 +5,11 @@
    [the-order-of-things.web.templates.prompts :as prompts]))
 
 (defn search [-search on-change]
-  [:div.field
-   [:div.control.has-icons-right
-    (prompts/text -search
-                  :on-change on-change
-                  :placeholder "🔍 Search poems")]])
+  [:section
+   (prompts/search -search
+                   :on-change on-change
+                   :placeholder "Search poems")
+   [:small "Search poems by card name or text content."]])
 
 (defn homepage []
   (let [-search (atom "")

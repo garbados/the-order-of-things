@@ -18,3 +18,4 @@ node_modules
 .shadow-cljs
 public/js
 .calva
+public/css/pico

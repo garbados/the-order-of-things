@@ -6,13 +6,13 @@
    [the-order-of-things.web.templates.prompts :as prompts]))
 
 (defn number-input [-n on-change]
-  [:div.field
-   [:div.control.has-icons-right
-    (prompts/number -n
-                    :on-change on-change
-                    :placeholder "🔢 Draw N poems"
-                    :props {:max 78
-                            :min 1})]])
+  [:section
+   (prompts/number -n
+                   :on-change on-change
+                   :placeholder "🔢 Draw N poems"
+                   :props {:max 78
+                           :min 1})
+   [:small "Enter the number of cards to include in the spread."]])
 
 (defn poem-spread
   ([] (poem-spread {}))

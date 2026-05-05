@@ -28,6 +28,7 @@
     [:input.input
      (cond->
       {:type input-type
+       :name input-type
        :value @-value
        :oninput oninput}
        placeholder              (assoc :placeholder placeholder)
@@ -37,6 +38,9 @@
 
 (defn text [-value & args]
   (apply input -value :input-type "text" args))
+
+(defn search [-value & args]
+  (apply input -value :input-type "search" args))
 
 (defn number [-value & args]
   (apply input -value :input-type "number" args))

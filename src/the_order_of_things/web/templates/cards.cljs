@@ -7,20 +7,18 @@
   [{card-name :title
     poem-lines :lines
     {media-description :description :keys [src]} :media}]
-  [:div.block>div.box
-   [:div.columns
-    (when (seq src)
-      [:div.column.is-3
-       [:figure.image
-        [:img {:alt media-description
-               :title media-description
-               :src src}]]])
-    [:div.column
-     [:h3 card-name]
-     (when (seq poem-lines)
-       [:blockquote>p
-        (for [line poem-lines]
-          [:span line [:br]])])]]])
+  [:section>article.grid
+   {:style "grid-template-columns: 25% 1fr;"}
+   (when (seq src)
+     [:img {:alt media-description
+            :title media-description
+            :src src}])
+   [:div
+    [:h3 card-name]
+    (when (seq poem-lines)
+      [:p
+       (for [line poem-lines]
+         [:span line [:br]])])]])
 
 (defn search-cards
   ([] (search-cards ""))

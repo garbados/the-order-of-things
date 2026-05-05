@@ -1,29 +1,24 @@
 (ns the-order-of-things.web.templates.layout)
 
+(def title
+  [:hgroup
+   {:style "text-align: center;"}
+   [:h2 "🍃 The Order of Things 👑"]
+   [:p "An epic poem in 78 parts"]])
+
 (def navbar
-  [:nav.navbar
-   {:role "navigation" :aria-label "main navigation"}
-   [:div.navbar-brand
-    [:a.navbar-item
-     {:href "#/"}
-     [:h1.title "🍃 The Order of Things 👑"]]]
-   [:div.navbar-menu
-    [:div.navbar-end
-     [:div.navbar-item
-      [:a.button.is-info.is-outlined {:href "#/spread"} "Spread 🃏"]]
-     [:div.navbar-item
-      [:a.button.is-info {:href "#/about"} "About 📖"]]
-     [:div.navbar-item
-      [:a.button.is-info.is-light
-       {:href "https://github.com/garbados/the-order-of-things"
-        :target "_blank"}
-       "Source 👩‍💻"]]]]])
+  [:nav
+   {:role "navigation" :aria-label "main navigation"
+    :style "text-align: center;"}
+   [:ul
+    [:li>a {:href "#/"} "🛖 Home"]
+    [:li>a {:href "#/spread"} "🃏 Spread"]]
+   [:ul
+    [:li>a {:href "#/about"} "About ❓"]
+    [:li>a {:href "//github.com/garbados/the-order-of-things"  :target "_blank"} "Source 👩‍💻"]]])
 
 (def container
-  [:div.container
-   navbar
-   [:div.columns.is-desktop
-    [:div.column
-     [:div.box
-      [:div.content#main
-       [:h1.title "Loading..."]]]]]])
+  [:main.container
+   [:section title navbar]
+   [:section#main
+    [:article {:aria-busy "true"} "Loading..."]]])

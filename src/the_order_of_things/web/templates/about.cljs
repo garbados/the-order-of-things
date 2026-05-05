@@ -5,9 +5,9 @@
 
 (def about
   (let [lines (string/split-lines text/about)]
-    [:div.block
+    [:article
      [:h3 (subs (first lines) 1)]
-     [:blockquote>p
+     [:p
       (for [line (drop 2 lines)]
         (if (seq line)
           [:span line [:br]]

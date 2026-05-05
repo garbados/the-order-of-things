@@ -15,7 +15,7 @@ and such articulate sensuality.
 
 By the time of Gilgamesh, Uruk had already grown great.
 The power of the cult had yielded to the administrator,
-the En, who you misunderstand as *king*,
+the En, who you misunderstand as king,
 whose tyranny could only be matched by the wild green.
 A high priestess went out to tame Enkidu, the wild man,
 the mirror of her unruly king,
