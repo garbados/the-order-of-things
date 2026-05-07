@@ -262,32 +262,39 @@ I think I know what else they're deft with.
 Oh, of course he's handsome -- like the emperor himself!
 But lover, you say it yourself:
 they're fuckboys. Him and the emperor both.
-And that wild man had never done a lye scrub before?
+And that wildman had never done a lye scrub before?
 Ew!
 
 ## The Three of Pentacles
 
-This boss taught me to speak with the stone.
-She presented me with a great smooth rock, expertly hewn,
-And bade me make it a face.
-I've dabbled in wet clay and stacking stones,
-Like ants do with labyrinths, but
-Failure is the hallmark of the apprentice's first contact with craft.
-Still, even after she kicks apart my attempt,
-She sets another rock before me.
+The boss places a rock before me
+and presses a chisel into my hand,
+her smirk wide and evil.
+She bids:
+Show me, stranger, what your strength can do.
+What has the wild green taught you
+that I cannot?
+In the midst of hewn walls,
+the stone crumbles
+and all the painted murals seem to laugh
+but it is only the boss,
+guffawing long, luxuriantly.
 She demands: again!
-Until I've made a scowl like hers.
-When I do, it makes her smile.
-She barks for who's to command me next,
-To manage how I paint your gods on your walls.
-Our walls. Our gods. That's the way they say it.
-Civilization takes work, they say. But whose?
-Everyone's, they say. But who's that?
-They see my strength and they give me a chisel,
-But they don't trust my wits, so they watch.
-Together we're smarter than we are alone, they say.
-I like when that's true,
-But their hands aren't growing callous.
+Failure is the hallmark of the apprentice;
+diligence hones the driven student;
+the illusion of mastery vexes the master.
+Your ignorance delights me, she declares
+as another piece of earth perishes in my hands.
+Again! Again! Again!
+Civilization takes work, student. Ours!
+Terra blushes when our skilled fingers carress her.
+The architect, the priest -- our supervisors? Hah!
+Who does the work, has the power;
+solving a problem takes digging into the details
+and there the supervisor cannot go.
+They look over our shoulder but cannot distinguish
+the artistry they perceive
+from the cleverness we imbue.
 
 ## The Empress
 
@@ -296,47 +303,64 @@ You must not know who I am, to regard me so casually.
 You live beneath me. I stock your life. Let me explain.
 We call it the Duarchy, and I'm just one half.
 My syndicates tame rivers and leash mountains,
-So the green, our green, it grows where we tell it to.
+so the green, our green -- it grows where we tell it to.
 Predators move warily near the neighborhoods,
-Knowing across generations how we hold power over their death.
+knowing across generations how we hold power over their death.
 I preside with my partner, and our love is empire.
-Creation creates the creator; to parent necessitates progeny.
+Creation creates the creator; progeny necessitates the parent.
 They call me fertile, but all I raise is possibility.
 They call me soft, but when one stays the gravity of famine
-One cannot help but know intimately its tearing edge.
+one cannot help but know intimately its tearing edge.
 
 ## The Emperor
 
 We call it the Duarchy, and I'm the other half.
 My forces march against our enemies, such as they are.
 Not the weather, not the seasons, not the stars or seas,
-But the foolhardy violence of my peers and cousins.
+but the foolhardy violence of my peers and cousins.
 The slaver's hand can be turned
-Even when it means breaking the arm,
-And once you hear that bone snap enough times,
-You stop feeling like there's a person around it.
+even when it means breaking the arm.
+But, I admit,
+once you hear that bone snap enough times,
+you stop feeling like there's a person around it.
 We raise walls to stay the hordes,
-But who's a horde is just a matter of allegiance.
+though precious more than allegience
+distinguishes them from one's allies.
+It takes two to trust, and an empire takes trust --
+but who are we when we move in trust's absence?
+They expect me to have the answer.
 
 ## The Four of Swords
 
+The boss shows me where my depictions will live:
+she'd had me carving beautiful people
+on coffins, for a crypt.
+Is this how you cityfolk die? In stone?
+How covetous of the flesh --
+but as my fingers grace an older coffin
+it speaks. It says:
 The pact of mortality is death.
 Many things that never live will never die,
-But we have the privilege to perish.
+but we have the privilege to perish.
 All our struggles leave us lying still in state,
-Their consequences to be considered by our survivors alone.
+their consequences to be considered by our survivors alone.
 Mind what you sacrifice, stranger; mind what you give to empire.
 They might give you a grand tomb,
-But you won't survive to appreciate it.
+but you won't survive to appreciate it.
 
 ## The Four of Wands
 
 Welcome, stranger. Welcome home.
+You are the talk of the town! The royal depictor!
+But here, we wear masks -- isn't it fun?
 We dance in the daylight and we drink into the night.
 Poetry flows from loose lips; in vino veritas.
 We dine on cornucopia and thank by name its gatherers.
 We frolic on stones laid by the work of neighbors.
+The walls of the City dance with our gleeful shadows.
 Now whose eye do you catch? In what pupil do you sparkle?
+With our veils, how could you know what face does glow
+like his?
 Even royalty can fall in love; decorum cannot prevent attraction.
 Let our joy sanctify compassion.
 Let our mirth reach the stars.
@@ -345,28 +369,42 @@ Let our mirth reach the stars.
 
 I have it good, or good enough, I think.
 It's not perfect, not by a long shot,
-But guestright is alright, here in the City.
+but guestright is alright, here in the City.
 I'm housed and fed, and a healer's never far.
-I don't know how to feel when that handsome one looks my way.
+The boss teaches me, and I choose to learn.
+The City's praise is rich in artifice
+like oils are an artifice:
+a slick fragrance that surrounds a real thing,
+not merely sustenance, but pleasantness
+however cheesy or saccharine.
+When I let them, days flow easily
+like thick morning syrup.
+And yet, something makes me hesitate,
+like the green never could,
+like when that handsome one looks my way,
+and I don't know how to feel.
 I don't know what to think of everything that separates us.
-The wild cultivated courage in me,
-But in his gaze my bashfulness feels like cowardice.
+The wild green cultivated courage in me
+but in his gaze my bashfulness turns to cowardice.
 What do I turn away from
-When my blush draws my eyes to the ground?
+when my blush draws my eyes to the ground?
 
 ## The Four of Pentacles
 
 Authority requires control. It is control.
-Our enemies march. They covet our City.
+Our enemies plot. They covet our City.
 Through shrewd brutality, they can be cowed,
-But what spirit do I nurture through war?
+but what spirit do I nurture through war?
 The wildman covets nothing, is nothing but himself,
-While for the sake of peace, I am little but the mask
+While for the sake of the illusion called peace,
+I am little but the mask
 Of decorum, of empire, of a violent unity
 Whose pax is broken deviants.
 Is it I that is shrewd now, as I wield brutality?
 Or something alien that moves through me
 Which cares nothing for the love we claim to protect?
+Why do we assume that our love is wiser or kinder
+than the covenant of prey and predator?
 
 ## The Hierophant
 
@@ -385,31 +423,37 @@ You should know better.
 ## The Lovers
 
 We find each other in the dark
-Where only our fingers can see our faces,
-And our lips speak without words
-In soft touches, firm grace, and hungry passion.
+where only our fingers can see our faces,
+and our lips speak without words
+in soft touches, firm grace, and hungry passion.
 It doesn't matter who we are in the daylight,
-What strictures separate our worlds.
+what strictures separate our worlds.
 All of civilization is a story we tell
-Inbetween the only real things in life,
-The things our bodies feel.
+inbetween the only real things in life,
+the things our bodies feel.
 If empire cannot survive how we feel together,
-Then maybe it deserves to crumble.
+then maybe it deserves to crumble.
 
 ## The Five of Swords
 
+I goad the City's foes to crash like waves
+upon the walls our artisans made in cleverness,
+to sap their will with loss.
 When we scatter their legions,
-The survivors walk to our gates
-And become our latest citizens.
-Nomads and traders and crows all scavenge,
-And the profits trickle to our bazaars.
-The battle does not quell animosity.
-The strength of our walls does not change
-That they will come again, and again.
-For now, we watch their generals walk away
-Unlike so many of their loyal guard,
-Because we are merciful, stranger,
-But mercy doesn't keep you safe.
+the survivors walk to our gates.
+They become our latest citizens.
+Nomads and traders and crows all scavenge;
+the profits trickle to our bazaars.
+The battle does not quell animosity,
+but only cools it to diplomacy.
+The silence of our walls keeps the secret:
+that this was an ambush.
+We arranged it by building
+a fortress in the path of their hubris.
+As dusk settles in, we watch their generals walk away
+unlike so many of their loyal guard,
+because we are merciful, stranger, but
+mercy is only one thing that protects us.
 
 ## The Five of Wands
 
@@ -423,19 +467,32 @@ Before they show me how to hit a dummy.
 The weapon's shaft thuds against straw flesh;
 They don't tell me how different it is,
 The sound when the flesh is thinking meat.
+Cityfolk and their enemies have long considered
+how to harm each other cleverly,
+more sharply, more precisely, more spiritually;
+did we have such things in the wild green?
+A primate might go to war
+and make a great deal of noise dying
+but a soldier in an army fed by farms and canals
+reflects that a whole ecosystem rests on their struggle.
+The forest does not choose the winner
+but an empire might chop it down
+to make one.
 
 ## The Five of Cups
 
 What have I lost in the City?
 I made a friend of a bailiff,
-Who died on a rival people's spear-point.
+who died on a rival people's spear-point.
 My neighbors know me by name now,
-But that name is always: stranger.
+but that name is always: stranger.
 I carved the walls of the newest temple,
-But only the priests get the credit.
+and though the Duarchy presides over its appraisal,
+my grateful emperor did not use the titles for me
+that he uses when our shadows dance together.
 I may have some things of unalloyed good,
-But even the love that makes me glow
-Is a secret to his court.
+but even the love that makes me glow
+is a secret to his court.
 What have I lost in the City?
 Was it worth it?
 
