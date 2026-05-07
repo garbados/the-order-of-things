@@ -482,12 +482,15 @@ to make one.
 ## The Five of Cups
 
 What have I lost in the City?
-I made a friend of a bailiff,
-who died on a rival people's spear-point.
 My neighbors know me by name now,
 but that name is always: stranger.
-I carved the walls of the newest temple,
-and though the Duarchy presides over its appraisal,
+The boss died in battle, and lies in state;
+artisan signatures cover her coffin's corners,
+dozens and dozens and dozens, in love
+halted.
+Without her,
+we carved the walls of the newest temple.
+Though the Duarchy presides over its appraisal,
 my grateful emperor did not use the titles for me
 that he uses when our shadows dance together.
 I may have some things of unalloyed good,
